@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Cognitator</string>
+    <string name="screen_home">ホーム</string>
+    <string name="screen_listings">チェックリスト</string>
+    <string name="screen_statistics">統計情報</string>
+    <string name="screen_settings">設定</string>
+
+    <string name="home_green">🎉 ALL GREEN 🎉</string>
+
+    <string name="notif_title">Debug Notification</string>
+    <string name="notif_content">セキュリティリスクが高まっています！</string>
+</resources>
